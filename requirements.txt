@@ -1,3 +1,6 @@
 PyQt5
 pyqt5-tools
+tk-tools
+tkhtmlview
 sip
+pycaw
